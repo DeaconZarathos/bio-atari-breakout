@@ -1,5 +1,7 @@
 # 🧠 Bio-Hybrid Atari Breakout Client (CL-SDK & Gymnasium)
 
+[![DOI](https://zenodo.org/badge/1445106786.svg)](https://doi.org/10.5281/zenodo.23936588)
+
 Este repositorio contiene un adelanto funcional de un **sistema de control híbrido bio-digital** que conecta el hardware biológico (neuronas en chip/DishBrain) de **Cortical Labs** con el entorno de simulación **Gymnasium (Atari 2600 Breakout)**. 
 
 El proyecto implementa un bucle de circuito cerrado (*closed-loop*) donde un cultivo celular vivo interactúa con un videojuego en tiempo real mediante estímulos vectoriales y decodificación de impulsos eléctricos (*spikes*).
